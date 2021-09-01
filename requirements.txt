@@ -1,0 +1,11 @@
+jupyterlab
+requests
+pandas
+numpy
+matplotlib
+graphviz
+seaborn
+ipywidgets
+sklearn
+xgboost
+voila
